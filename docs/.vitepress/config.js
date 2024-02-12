@@ -4,12 +4,12 @@ import sidebar from './sidebar'
 export default defineConfig({
     
     lang: 'zh-CN',
-    title: '阴云文档',
-    description: '阴云相关项目与工程的文档说明',
+    title: 'Niuex Dev 文档',
+    description: '项目与服务的相关文档说明',
 
     head: [
         ['link', {rel: 'icon', href: '/icon.png'}],
-        ['meta', {name: 'keywords', content: 'Yinyun, 阴云, Documentation, 文档, 阴云文档, 帮助, 说明, 教程, 介绍, 阴云皮肤, 渐蓝方块, VitePress'}],
+        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, 帮助, 说明, 教程, 介绍, HokoIsle Skinlib, 渐蓝方块'}],
         ['meta', {name: 'author', content: 'Yinyun Studio'}],
     ],
 
@@ -20,7 +20,7 @@ export default defineConfig({
 
     themeConfig: {
 
-        siteTitle: '阴云文档',
+        siteTitle: 'Niuex Dev 文档',
         logo: '/logo.png',
 
         
@@ -28,13 +28,13 @@ export default defineConfig({
 
         
         nav: [
-            { text: '阴云皮肤', link: '/yinyunskin/' },
+            { text: 'HokoIsle Skinlib', link: '/skinlib/' },
             { text: '渐蓝方块', link: '/twobluecube/' },
             { text: '关于', link: '/about/' }
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/YinyunStudio/YinyunDocs/' }
+            { icon: 'github', link: 'https://github.com/NiuexDev/docs/' }
         ],
 
         sidebar: sidebar,
@@ -64,7 +64,7 @@ export default defineConfig({
         },
 
         editLink: {
-            pattern:'https://github.com/YinyunStudio/YinyunDocs/edit/main/docs/:path',
+            pattern:'https://github.com/NiuexDev/docs/edit/main/docs/:path',
             text:'编辑此页'
         },
 
@@ -78,7 +78,7 @@ export default defineConfig({
     },
 
         footer: {
-            copyright: '© 2024 YinyunStudio, CC BY-NC-SA 4.0 license.'
+            copyright: '© 2024 Niuex Dev, CC BY-NC-SA 4.0 license.'
         }
     }
 })

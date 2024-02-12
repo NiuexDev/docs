@@ -9,4 +9,4 @@
 
 如您使用手机，则可以使用基岩版，详见[基岩版教程](./bedrock/)。对于基岩版，则**必须**使用**1.20.1**进入渐蓝方块。<br>
 
-渐蓝方块须使用阴云皮肤登录，关于皮肤站的使用教程，请参考[使用指南](/yinyunskin/guide/create-account/)
+渐蓝方块须使用HokoIsle Skinlib登录，关于皮肤站的使用教程，请参考[使用指南](/skinlib/guide/create-account/)

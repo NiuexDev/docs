@@ -1,17 +1,17 @@
 export default {
-'/yinyunskin/': [
+'/skinlib/': [
     {
-        text: '阴云皮肤',
+        text: 'HokoIsle Skinlib',
         items: [
-            { text: '介绍', link: '/yinyunskin/' }
+            { text: '介绍', link: '/skinlib/' }
         ]
     },
     {
         text: '使用指南',
         items: [
-            { text: '创建账号', link: '/yinyunskin/guide/create-account/' },
-            { text: '选择皮肤', link: '/yinyunskin/guide/select-skin/' },
-            { text: '设置启动器', link: '/yinyunskin/guide/setup-launcher/' }
+            { text: '创建账号', link: '/skinlib/guide/create-account/' },
+            { text: '选择皮肤', link: '/skinlib/guide/select-skin/' },
+            { text: '设置启动器', link: '/skinlib/guide/setup-launcher/' }
         ]
     }
 ],

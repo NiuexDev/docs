@@ -39,6 +39,9 @@ html {
     --vp-c-brand-dark: hwb(205 35% 5%);
     --vp-c-brand-darker: hwb(205 40% 12%);
     --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
+
+    --vp-c-text-1: rgb(60, 67, 60);
+    --vp-c-indigo-soft: rgba(26, 158, 6, 0.14);
 }
 
 /**
