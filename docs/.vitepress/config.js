@@ -4,12 +4,12 @@ import sidebar from './sidebar'
 export default defineConfig({
     
     lang: 'zh-CN',
-    title: 'Niuex Dev 文档',
+    title: 'Niuex 文档',
     description: '项目与服务的相关文档说明',
 
     head: [
         ['link', {rel: 'icon', href: '/icon.png'}],
-        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, 帮助, 说明, 教程, 介绍, HokoIsle Skinlib, 渐蓝方块'}],
+        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, Niuex 文档, 帮助, 说明, 教程, 介绍, HokoIsle Skinlib, 渐蓝方块'}],
         ['meta', {name: 'author', content: 'Yinyun Studio'}],
     ],
 
@@ -20,7 +20,7 @@ export default defineConfig({
 
     themeConfig: {
 
-        siteTitle: 'Niuex Dev 文档',
+        siteTitle: 'Niuex 文档',
         logo: '/logo.png',
 
         
@@ -28,7 +28,7 @@ export default defineConfig({
 
         
         nav: [
-            { text: 'HokoIsle Skinlib', link: '/skinlib/' },
+            { text: '北屿皮肤站', link: '/hokoisle-skin/' },
             { text: '渐蓝方块', link: '/twobluecube/' },
             { text: '关于', link: '/about/' }
         ],
@@ -78,7 +78,7 @@ export default defineConfig({
     },
 
         footer: {
-            copyright: '© 2024 Niuex Dev, CC BY-NC-SA 4.0 license.'
+            copyright: '© 2024 Niuex Dev Studio, CC BY-NC-SA 4.0 license.'
         }
     }
 })

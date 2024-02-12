@@ -1,15 +1,14 @@
 ---
-# titleTemplate: 阴云项目相关教程、文档
 
 layout: home
 
 hero:
   name: 纽埃柯丝の文档
   text: 项目相关教程、文档存放于此
-  tagline: HokoIsle Skinlib、渐蓝方块的教程文档等都存放于此
+  tagline: 北屿皮肤站、渐蓝方块、Hi Auth的教程文档等都存放于此
 features:
-- title: <a href="/skinlib/">HokoIsle Skinlib<span class="go">前往</span></a>
-  details: HokoIsle Skinlib的使用指南
+- title: <a href="/hokoisle-skin/">北屿皮肤站<span class="go">前往</span></a>
+  details: 北屿皮肤站的使用指南
 - title: <a href="/twobluecube/">渐蓝方块<span class="go">前往</span></a>
   details: 进服教程、服务器规则、还有...?
 - title: 更多
