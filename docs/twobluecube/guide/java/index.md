@@ -26,7 +26,7 @@ BakaXL将引导您进行一些设置
 
 在`创建用户档案`界面，请登录，如您没有正版账号，请点击`我没有购买正版 Minecraft`，进行离线登录
 ::: tip 请注意
-进入渐蓝方块将使用HokoIsle Skinlib，而不是正版或者离线账号。故在此界面您选择哪种登录方式都不影响后续步骤，无需太多顾虑
+进入渐蓝方块将使用北屿皮肤站，而不是正版或者离线账号。故在此界面您选择哪种登录方式都不影响后续步骤，无需太多顾虑
 :::
 ![](./5.png)
 
@@ -42,20 +42,20 @@ BakaXL将引导您进行一些设置
 
 ## 皮肤站
 
-打开浏览器，访问[HokoIsle Skinlib](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/skinlib/guide/create-account)进行HokoIsle Skinlib的注册登录，并完成启动器配置
+打开浏览器，访问[北屿皮肤站](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/hokoisle-skin/guide/create-account)进行北屿皮肤站的注册登录，并完成启动器配置
 
 ## 启动
 
 在启动器的主界面，点击`开始游戏`
 ![](./9.png)
 
-启动器将弹出界面让您选择启动游戏所使用的账号，选择您使用HokoIsle Skinlib登录的那一个
+启动器将弹出界面让您选择启动游戏所使用的账号，选择您使用北屿皮肤站登录的那一个
 ![](./10.png)
 
 如启动器提示`未找到合适的 Java 虚拟机...`，请选择`好`
 ![](./11.png)
 
-至此，您应该已经正确的使用HokoIsle Skinlib账号启动了Minecraft
+至此，您应该已经正确的使用北屿皮肤站账号启动了Minecraft
 
 ## 游戏内
 

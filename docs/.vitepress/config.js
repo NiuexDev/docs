@@ -9,7 +9,7 @@ export default defineConfig({
 
     head: [
         ['link', {rel: 'icon', href: '/icon.png'}],
-        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, Niuex 文档, 帮助, 说明, 教程, 介绍, HokoIsle Skinlib, 渐蓝方块'}],
+        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, Niuex 文档, 帮助, 说明, 教程, 介绍, 北屿皮肤站, 渐蓝方块'}],
         ['meta', {name: 'author', content: 'Yinyun Studio'}],
     ],
 

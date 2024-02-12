@@ -10,7 +10,7 @@ export default {
         text: '使用指南',
         items: [
             { text: '创建账号', link: '/hokoisle-skin/guide/create-account/' },
-            { text: '选择皮肤', link: '/hokoisle-skin/guide/select-skin/' },
+            { text: '设置皮肤', link: '/hokoisle-skin/guide/select-skin/' },
             { text: '设置启动器', link: '/hokoisle-skin/guide/setup-launcher/' }
         ]
     }

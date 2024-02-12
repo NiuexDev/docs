@@ -16,7 +16,7 @@
 ![000](./11.jpg)
 ![000](./12.jpg)
 ## 3
-访问[HokoIsle Skinlib](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/skinlib/guide/create-account)进行HokoIsle Skinlib的注册登录
+访问[北屿皮肤站](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/hokoisle-skin/guide/create-account)进行北屿皮肤站的注册登录
 ## 4
 返回首页，点击“游戏”
 ![000](./6.jpg)
