@@ -7,7 +7,7 @@
 .copyright {
     font-size: 12px;
     text-align: center;
-    margin-top: 24px;
+    margin-top: 48px;
     margin-bottom: -32px;
 }
 
