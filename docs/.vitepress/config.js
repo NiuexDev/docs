@@ -9,8 +9,8 @@ export default defineConfig({
 
     head: [
         ['link', {rel: 'icon', href: '/icon.png'}],
-        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, Niuex 文档, 帮助, 说明, 教程, 介绍, 北屿皮肤站, 渐蓝方块'}],
-        ['meta', {name: 'author', content: 'Yinyun Studio'}],
+        ['meta', {name: 'keywords', content: 'Niuex Dev, Niuex, Niuex Documentation, Documentation, 文档, Niuex 文档, 帮助, 说明, 教程, 介绍, 北屿皮肤站'}],
+        ['meta', {name: 'author', content: 'Niuex Dev'}],
     ],
 
     cleanUrls: true,
@@ -29,12 +29,12 @@ export default defineConfig({
         
         nav: [
             { text: '北屿皮肤站', link: '/hokoisle-skin/' },
-            { text: '渐蓝方块', link: '/twobluecube/' },
+            { text: 'Mahiro Auth', link: '/mahiro-auth/' },
             { text: '关于', link: '/about/' }
         ],
 
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/NiuexDev/docs/' }
+            { icon: 'github', link: 'https://github.com/NiuexDev/' }
         ],
 
         sidebar: sidebar,
@@ -69,7 +69,7 @@ export default defineConfig({
         },
 
         
-        lastUpdatedText: "更新于",
+        lastUpdatedText: "本页编辑于",
 
         
     docFooter: {

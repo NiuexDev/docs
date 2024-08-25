@@ -4,7 +4,10 @@
             <PageNotFound />
         </template>
         <template #aside-bottom>
-            <Copyright />
+            <CopyrightDesktop />
+        </template>
+        <template #doc-bottom>
+            <CopyrightMobile />
         </template>
     </Layout>
 </template>
@@ -12,7 +15,8 @@
 
 <script setup>
 import PageNotFound from './E404.vue'
-import Copyright from './Copyright.vue'
+import CopyrightDesktop from './copyright-desktop.vue'
+import CopyrightMobile from './copyright-mobile.vue'
 
 import DefaultTheme from 'vitepress/theme'
 const { Layout } = DefaultTheme
