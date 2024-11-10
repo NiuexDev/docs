@@ -42,7 +42,7 @@ BakaXL将引导您进行一些设置
 
 ## 皮肤站
 
-打开浏览器，访问[北屿皮肤站](https://skin.yinyuns.top/)，按照[使用指南](https://docs.yinyuns.top/hokoisle-skin/guide/create-account)进行北屿皮肤站的注册登录，并完成启动器配置
+打开浏览器，访问[北屿皮肤站](https://skin.niuex.dev/)，按照[使用指南](https://docs.niuex.dev/hokoisle-skin/guide/create-account)进行北屿皮肤站的注册登录，并完成启动器配置
 
 ## 启动
 

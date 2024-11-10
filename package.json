@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YinyunStudio/YinyunDocs.git"
+    "url": "git+https://github.com/NiuexDev/docs.git"
   },
   "author": "Yinyun Studio",
   "license": "CC BY-NC-SA 4.0",
   "bugs": {
-    "url": "https://github.com/YinyunStudio/YinyunDocs/issues"
+    "url": "https://github.com/NiuexDev/docs/issues"
   },
-  "homepage": "https://github.com/YinyunStudio/YinyunDocs#readme",
+  "homepage": "https://github.com/NiuexDev/docs#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-beta.3",
     "vue": "^3.3.4"

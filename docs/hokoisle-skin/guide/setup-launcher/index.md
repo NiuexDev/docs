@@ -9,16 +9,16 @@ HMCL [Hello Minecraft Launcher](https://hmcl.huangyuhui.net/)<br>
 BakeXL [BakaXL - 新一代Minecraft崩坏启动器](https://www.bakaxl.com/)<br>
 PCL2 [Plain Craft Launcher 2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)<br>
 XMCL [X Minecraft Launcher - 一个现代化的 Minecraft 启动器](https://xmcl.app/)<br>
-如果你想为文档添加更多启动器的教程，欢迎前往[本文档仓库](https://github.com/YinyunStudio/Old-YinyunDocs)
+如果你想为文档添加更多启动器的教程，欢迎前往[本文档仓库](https://github.com/NiuexDev/docs)
 :::
 
 对于大部分启动器，添加北屿皮肤站作为外置登录需要以下两个步骤：<br>
-1.添加外置登录，填入`https://skin.yinyuns.top/api/yggdrasil`<br>
+1.添加外置登录，填入`https://skin.niuex.dev/api/yggdrasil`<br>
 2.添加账号，选择北屿皮肤站，输入账号密码
 
 ## HMCL
 
-打开[用户中心](https://skin.yinyuns.top/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
+打开[用户中心](https://skin.niuex.dev/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
 <video controls src="./HMCL-v1.mp4"></video>
 
 点击`用户`
@@ -38,7 +38,7 @@ XMCL [X Minecraft Launcher - 一个现代化的 Minecraft 启动器](https://xmc
 在左侧边栏点击`账户与档案`，在右侧向下滚动，点击`新增一个档案`
 ![](./BakaXL-2.png)
 
-打开[用户中心](https://skin.yinyuns.top/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
+打开[用户中心](https://skin.niuex.dev/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
 <video controls src="./BakaXL-v1.mp4"></video>
 
 点击`进行验证并返回`
@@ -51,7 +51,7 @@ PCL2中，外置登录的设置是基于版本的<br>
 您因先选择**要使用北屿皮肤站的游戏版本**再进行下列操作
 :::
 
-打开[用户中心](https://skin.yinyuns.top/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
+打开[用户中心](https://skin.niuex.dev/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
 <video controls src="./PCL2-v1.mp4"></video>
 
 填入账号密码，并点击`启动游戏`<s>北屿皮肤站，启动！</s>
@@ -59,7 +59,7 @@ PCL2中，外置登录的设置是基于版本的<br>
 
 ## XMCL
 
-打开[用户中心](https://skin.yinyuns.top/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
+打开[用户中心](https://skin.niuex.dev/user)，将`将此按钮拖动至启动器`拖动至启动器，如下
 <video controls src="./XMCL-v1.mp4"></video>
 
 点击界面右上角的**头像**
