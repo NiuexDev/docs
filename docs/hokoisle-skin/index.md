@@ -6,7 +6,7 @@
 ## 简介
 这是一个Minecraft皮肤站，由Niuex Dev维护和运营。<br>
 目前已有三个服务器使用了北屿皮肤站。
-[北屿皮肤站](https://skin.yinyuns.top/)
+[北屿皮肤站](https://skin.niuex.dev/)
 ::: tip 皮肤站特性
 使用无需积分<br>
 好看而独特的样式
