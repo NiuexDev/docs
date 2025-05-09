@@ -13,7 +13,7 @@ features:
   details: 北屿皮肤站的使用指南
 
 - title: <a href="/mahiro-auth/">Mahiro Auth</a>
-  details: 进服教程、服务器规则、还有...?
+  details: 全新的Minecraft验证服务！
 
 - title: 更多
   details: 以后会有的...
